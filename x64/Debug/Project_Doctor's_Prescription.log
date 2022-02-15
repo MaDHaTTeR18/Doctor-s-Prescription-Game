@@ -1,0 +1,3 @@
+﻿  Doctor.cpp
+C:\Users\itmam\source\repos\Project_Doctor's_Prescription\Doctor.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project_Doctor's_Prescription.vcxproj -> C:\Users\itmam\source\repos\Project_Doctor's_Prescription\x64\Debug\Project_Doctor's_Prescription.exe
